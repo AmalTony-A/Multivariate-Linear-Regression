@@ -7,7 +7,6 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
  Import pandas as pd.
-
 <br>
 
 ### Step2
@@ -16,12 +15,10 @@ Read the csv file.
 
 ### Step3
 Get the value of X and y variables.
-
 <br>
 
 ### Step4
 Create the linear regression model and fit.
-
 <br>
 
 ### Step5
@@ -29,7 +26,6 @@ Predict the CO2 emission of a car where the weight is 1000kg, and the volume is 
 <br>
 
 ### step 6
-
 Print the predicted output.
 ## Program:
 ```
@@ -56,4 +52,4 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 <br>
 
 ## Result
-Thus the multivariate linear regression is implemented and predicted the output using python program.
+Thus the multivariate linear regression is implemented and predicted the output using python program
